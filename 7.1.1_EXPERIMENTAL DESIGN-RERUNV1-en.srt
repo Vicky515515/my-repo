@@ -1,0 +1,624 @@
+0
+00:00:00,359 --> 00:00:03,000
+Hello again. My name is Sophie Dove.
+
+1
+00:00:03,000 --> 00:00:07,750
+Previously, I gave you the lecture on nutrients. My plan today
+
+2
+00:00:07,750 --> 00:00:10,800
+is to introduce you to a few classic types of
+
+3
+00:00:10,800 --> 00:00:16,150
+experimental designs that are associated with identifying the influence
+
+4
+00:00:16,149 --> 00:00:19,890
+of a factor on a given response either
+
+5
+00:00:19,890 --> 00:00:27,490
+as part of a field study or associated with a manipulative experiment.
+
+6
+00:00:27,490 --> 00:00:34,550
+I will begin by introducing you to a few key terms and concepts.
+
+7
+00:00:35,980 --> 00:00:38,600
+Why do we conduct experiments?
+
+8
+00:00:38,600 --> 00:00:42,329
+Typically because we want to  precisely
+
+9
+00:00:42,329 --> 00:00:45,870
+and accurately answer some specific question or
+
+10
+00:00:45,870 --> 00:00:50,039
+questions. The answer usually involves
+
+11
+00:00:50,039 --> 00:00:53,699
+observing the impact of a treatment on a group
+
+12
+00:00:53,699 --> 00:00:59,390
+or collection of subjects. Prior to engaging in any experiment
+
+13
+00:00:59,390 --> 00:01:02,510
+it is important to identify known
+
+14
+00:01:02,510 --> 00:01:07,790
+or expected sources of variability as this will improve precision
+
+15
+00:01:07,790 --> 00:01:10,830
+and minimize bias. Professor Hoegh-Guldberg
+
+16
+00:01:10,830 --> 00:01:14,630
+spoke about precision in his field methods lecture
+
+17
+00:01:14,630 --> 00:01:18,590
+but it is clear that bias has to be eliminated
+
+18
+00:01:18,590 --> 00:01:21,830
+if the answers obtained to questions are to
+
+19
+00:01:21,830 --> 00:01:25,119
+overlap with the correct or true answers:
+
+20
+00:01:25,119 --> 00:01:29,049
+the truth. The following schematic
+
+21
+00:01:29,049 --> 00:01:32,369
+is intended to help you understand these terms
+
+22
+00:01:32,369 --> 00:01:37,790
+and their relationship to each other. Observations
+
+23
+00:01:37,790 --> 00:01:42,000
+are precise and accurate if they are closely clustered
+
+24
+00:01:42,000 --> 00:01:46,810
+and overlap the truth. Observations are
+
+25
+00:01:46,810 --> 00:01:50,810
+inaccurate but precise if they are closely clustered
+
+26
+00:01:50,810 --> 00:01:56,130
+but don&#39;t approximate the truth. They can be
+
+27
+00:01:56,130 --> 00:01:59,409
+accurate and imprecise when they overlap the truth
+
+28
+00:01:59,409 --> 00:02:04,180
+but are not closely clustered and they can be both
+
+29
+00:02:04,180 --> 00:02:06,660
+inaccurate and imprecise.
+
+30
+00:02:06,660 --> 00:02:10,940
+Clearly a key goal must be to eliminate bias
+
+31
+00:02:10,949 --> 00:02:16,209
+and improve precision. A step essential to this goal
+
+32
+00:02:16,209 --> 00:02:20,209
+is to ensure that background conditions are uniform across
+
+33
+00:02:20,209 --> 00:02:25,090
+all the treatments applied to all the experimental subjects.
+
+34
+00:02:27,500 --> 00:02:32,879
+Talking about &quot;treatments&quot; requires the introduction of a few more technical terms.
+
+35
+00:02:32,879 --> 00:02:37,330
+A factor is essentially a category
+
+36
+00:02:37,330 --> 00:02:41,630
+or type of treatment. Sometimes they are referred to as
+
+37
+00:02:41,630 --> 00:02:47,480
+&quot;controlled independent variables&quot; or &quot;categorical variables.&quot;
+
+38
+00:02:47,480 --> 00:02:52,019
+Here the application or presence of nutrients
+
+39
+00:02:52,019 --> 00:02:55,170
+is given as an example of a factor.
+
+40
+00:02:55,170 --> 00:02:58,269
+Factors have levels,
+
+41
+00:02:58,269 --> 00:03:01,480
+that is, the different amounts of the factor
+
+42
+00:03:01,480 --> 00:03:04,940
+that you are going to dose the experimental subjects with.
+
+43
+00:03:04,940 --> 00:03:09,300
+In this case there are three levels:
+
+44
+00:03:09,300 --> 00:03:13,349
+low, mid, high concentrations of nutrients.
+
+45
+00:03:13,349 --> 00:03:17,129
+Experimental designs can include
+
+46
+00:03:17,129 --> 00:03:20,290
+more than one factor. Therefore
+
+47
+00:03:20,290 --> 00:03:24,370
+the design of the experiment may be referred to
+
+48
+00:03:24,370 --> 00:03:28,150
+as a one factorial, two factorial
+
+49
+00:03:28,150 --> 00:03:31,450
+three factorial and so on experiment.
+
+50
+00:03:31,450 --> 00:03:35,920
+A factor is fixed when the levels under study
+
+51
+00:03:35,920 --> 00:03:40,430
+are the only levels of interest. A factor is random
+
+52
+00:03:40,430 --> 00:03:43,629
+when the levels under study are a random
+
+53
+00:03:43,629 --> 00:03:47,920
+sample from a larger population and the goal of the study
+
+54
+00:03:47,920 --> 00:03:51,030
+is to make a statement regarding the larger
+
+55
+00:03:51,030 --> 00:03:55,980
+population. Another way of understanding this
+
+56
+00:03:55,980 --> 00:03:59,080
+is that, if the level studied
+
+57
+00:03:59,080 --> 00:04:02,360
+divided by the levels of interest is equal to one
+
+58
+00:04:02,360 --> 00:04:07,580
+then the factor is fixed. If it is less than one
+
+59
+00:04:07,580 --> 00:04:11,739
+then the factor is random. Typically
+
+60
+00:04:11,739 --> 00:04:16,100
+the sex of an animal will be a fixed factor the levels studied
+
+61
+00:04:16,100 --> 00:04:19,329
+are male and female and for the most part
+
+62
+00:04:19,329 --> 00:04:25,500
+these are the only levels available, whilst the genotype of an animal
+
+63
+00:04:25,500 --> 00:04:28,820
+will be a random factor. You might select
+
+64
+00:04:28,820 --> 00:04:31,990
+to examine four genotypes from a population
+
+65
+00:04:31,990 --> 00:04:35,800
+that may include thousands of distinct genotypes.
+
+66
+00:04:35,800 --> 00:04:38,360
+If you recall Professor Hoegh-Guldberg
+
+67
+00:04:38,360 --> 00:04:42,070
+suggested that you add replicate experimental areas
+
+68
+00:04:42,070 --> 00:04:46,270
+to augment the level of replication in your experiment
+
+69
+00:04:46,270 --> 00:04:50,050
+and hence improve your ability to associate
+
+70
+00:04:50,050 --> 00:04:55,070
+responses with the different treatments, as opposed to mere inter-site
+
+71
+00:04:55,070 --> 00:04:58,110
+differences irrespective of the treatment.
+
+72
+00:04:58,110 --> 00:05:01,630
+For such an experimental design
+
+73
+00:05:01,630 --> 00:05:05,220
+the question is: are polluted sites different
+
+74
+00:05:05,220 --> 00:05:10,620
+from non-polluted control sites? The hypothesis would be:
+
+75
+00:05:10,620 --> 00:05:15,630
+polluted and controlled means for a specific response variable
+
+76
+00:05:15,630 --> 00:05:21,900
+are different. A description of the experimental design will be given as follows:
+
+77
+00:05:21,970 --> 00:05:25,270
+this is one factorial design where the factor
+
+78
+00:05:25,270 --> 00:05:28,520
+is habitat studied at two levels -
+
+79
+00:05:28,520 --> 00:05:31,910
+polluted and control - with three replicate
+
+80
+00:05:31,910 --> 00:05:36,639
+measurements determined for each level of the factor.
+
+81
+00:05:36,639 --> 00:05:41,060
+The factor is fixed because there are only two levels of interest for the
+
+82
+00:05:41,060 --> 00:05:44,960
+factor as we are not concerned with different amounts
+
+83
+00:05:44,960 --> 00:05:48,039
+of pollution in the present question just
+
+84
+00:05:48,039 --> 00:05:52,500
+presence and absence of pollution.
+
+85
+00:05:52,500 --> 00:05:57,720
+An alternative and commonly used approach that requires slightly more work
+
+86
+00:05:57,720 --> 00:06:00,860
+includes replicated transits within each
+
+87
+00:06:00,860 --> 00:06:05,530
+experimental area, in this case the question is slightly more complex
+
+88
+00:06:05,530 --> 00:06:09,069
+and asks: are the sites within a habitat
+
+89
+00:06:09,069 --> 00:06:12,080
+more similar to each other than the sites
+
+90
+00:06:12,080 --> 00:06:15,759
+between habitats? We can compare
+
+91
+00:06:15,759 --> 00:06:20,310
+amongst the experimental areas because we have more than a single transect for
+
+92
+00:06:20,310 --> 00:06:25,280
+each area. The hypothesis is then
+
+93
+00:06:25,280 --> 00:06:28,690
+that, the response variable - for example
+
+94
+00:06:28,690 --> 00:06:33,590
+abundance of sea cucumbers - will vary between habitats
+
+95
+00:06:33,590 --> 00:06:37,569
+and that differences will be greater than differences observed
+
+96
+00:06:37,569 --> 00:06:41,180
+on a smaller spatial scale.
+
+97
+00:06:41,180 --> 00:06:45,000
+It is a two factorial nested experimental design
+
+98
+00:06:45,000 --> 00:06:48,380
+the first factor is habitat with two levels,
+
+99
+00:06:48,380 --> 00:06:51,870
+polluted and controlled as before, we now
+
+100
+00:06:51,870 --> 00:06:55,199
+however, have a second factor - site -
+
+101
+00:06:55,199 --> 00:06:59,810
+with three separate levels or locations.
+
+102
+00:06:59,810 --> 00:07:03,840
+Habitat is fixed as before but site it random
+
+103
+00:07:03,840 --> 00:07:07,180
+because there are more than three locations we could have
+
+104
+00:07:07,180 --> 00:07:12,319
+selected from for each habitat level.
+
+105
+00:07:12,319 --> 00:07:16,900
+The nested approach is necessary becuase the same site can not be used
+
+106
+00:07:16,910 --> 00:07:18,580
+for both polluted
+
+107
+00:07:18,580 --> 00:07:22,169
+and control habitats. Again
+
+108
+00:07:22,169 --> 00:07:27,479
+this is a nested design because not all the boxes can be filled with data
+
+109
+00:07:27,479 --> 00:07:31,240
+when we tabulate the responses observed,
+
+110
+00:07:31,240 --> 00:07:34,539
+for example site one cannot be found
+
+111
+00:07:34,539 --> 00:07:38,970
+both in the control habitat and in the polluted habitat,
+
+112
+00:07:38,970 --> 00:07:42,680
+as a site can not be both polluted and clean
+
+113
+00:07:42,680 --> 00:07:45,819
+at the same time. When we select sites
+
+114
+00:07:45,819 --> 00:07:50,310
+amongst possible options it is important that we check that any differences
+
+115
+00:07:50,310 --> 00:07:51,139
+obtained
+
+116
+00:07:51,139 --> 00:07:54,349
+isolate our specific question from other
+
+117
+00:07:54,349 --> 00:07:59,620
+background conditions that may lead to obtaining significant differences that
+
+118
+00:07:59,620 --> 00:08:04,810
+actually have nothing to do with our specific question.
+
+119
+00:08:04,810 --> 00:08:10,289
+River plumes extend into significant portions of the Great Barrier Reef
+
+120
+00:08:10,289 --> 00:08:13,740
+following large rainfall.
+
+121
+00:08:13,740 --> 00:08:17,379
+A question that we might like to ask then is:
+
+122
+00:08:17,379 --> 00:08:21,050
+do the river plumes affect the distribution and abundance
+
+123
+00:08:21,050 --> 00:08:24,470
+of benthic coral reef organisms?
+
+124
+00:08:24,470 --> 00:08:28,319
+To assist with this aim, we might like to download satellite
+
+125
+00:08:28,319 --> 00:08:32,180
+image data that determines where the plumes extend to
+
+126
+00:08:32,179 --> 00:08:35,519
+within the Great Barrier Reef. Logically
+
+127
+00:08:35,519 --> 00:08:39,659
+the inshore because it is closer to the mouth of rivers,
+
+128
+00:08:39,659 --> 00:08:44,850
+is likely to be more affected than the offshore.
+
+129
+00:08:44,850 --> 00:08:48,560
+But if you select inshore reefs as &quot;plume affected&quot;
+
+130
+00:08:48,560 --> 00:08:52,250
+and offshore reefs as &quot;not affected&quot; it is possible
+
+131
+00:08:52,250 --> 00:08:55,519
+that non-plume effects drive any outcomes observed.
+
+132
+00:08:55,519 --> 00:08:59,510
+For example, upwelling and cooler water
+
+133
+00:08:59,510 --> 00:09:04,260
+may affect the offshore as opposed to the inshore reefs.
+
+134
+00:09:04,260 --> 00:09:10,110
+Likewise if you select your plume-affected sites from just the northern regions
+
+135
+00:09:10,110 --> 00:09:14,910
+and your plume-unaffected sites from the southern regions,
+
+136
+00:09:14,910 --> 00:09:19,700
+again these distinct latitudinal regions come with long-term differences
+
+137
+00:09:19,700 --> 00:09:23,200
+in temperature profiles. As much as possible
+
+138
+00:09:23,200 --> 00:09:27,690
+you need to select sites that eliminate these confounding background
+
+139
+00:09:27,690 --> 00:09:29,010
+features.
+
+140
+00:09:29,010 --> 00:09:32,279
+Here I hope to find satellite images
+
+141
+00:09:32,279 --> 00:09:35,880
+that would show the plume extending to the red sites
+
+142
+00:09:35,880 --> 00:09:41,660
+but not to the yellow sites, however this may not always be possible.
+
+143
+00:09:41,660 --> 00:09:45,550
+Furthermore your interest in river plumes may be tied
+
+144
+00:09:45,550 --> 00:09:49,010
+to the effects of either the nutrients or salinity
+
+145
+00:09:49,010 --> 00:09:52,450
+or sediment or pesticide concentrations
+
+146
+00:09:52,450 --> 00:09:55,890
+on the subject. However
+
+147
+00:09:55,890 --> 00:09:59,279
+it may not be possible to find sites in the field
+
+148
+00:09:59,279 --> 00:10:04,480
+that isolate these different drivers but otherwise have similar background
+
+149
+00:10:04,480 --> 00:10:09,540
+features. This is where manipulative experiments come into their own.
+
+150
+00:10:09,540 --> 00:10:13,019
+This brings us to the end of part one
+
+151
+00:10:13,019 --> 00:10:17,089
+of this lecture. In part two we will begin to take
+
+152
+00:10:17,089 --> 00:10:20,920
+a look at a design that is often used in manipulative
+
+153
+00:10:20,920 --> 00:10:24,209
+experiements to tease apart the roles
+
+154
+00:10:24,209 --> 00:10:27,390
+of different drivers or factors.
+
+155
+00:10:27,390 --> 00:10:27,709
+Thank you.
+
